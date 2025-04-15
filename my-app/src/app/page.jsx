@@ -99,7 +99,7 @@ const page = () => {
           </div>
         </div>
         <div className="w-1/2 h-full">
-          <Image alt='alo' src={image5} alt="Dealer Image" className="w-full h-full object-cover" />
+          <Image src={image5} alt="Dealer Image" className="w-full h-full object-cover" />
         </div>
       </div>
       <div className="w-full h-[600px] bg-black text-white relative flex flex-col items-center justify-start">
@@ -133,7 +133,7 @@ const page = () => {
       </div>
       <div className="flex w-full h-[600px]">
         <div className="w-1/2 h-full">
-          <Image alt='alo' src={image9} alt="Dealer Image" className="w-full h-full object-cover" />
+          <Image src={image9} alt="Dealer Image" className="w-full h-full object-cover" />
         </div>
         <div className="w-1/2 h-full flex flex-col justify-center pl-[80px]">
           <div>
