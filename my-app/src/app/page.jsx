@@ -32,7 +32,7 @@ const page = () => {
       </div>
       <div>
         <div>
-          <Image className='ml-[1100px] mt-[30px]' src={image2} />
+          <Image className='ml-[1100px] mt-[30px]' alt='alo' src={image2} />
         </div>
         <div>
           <h1 className='text-[48px] font-[600] pl-[80px] w-[300px] leading-13 mt-[-60px]'>making tables heroes</h1>
@@ -48,7 +48,7 @@ const page = () => {
           </div>
         </div>
         <div>
-          <Image className='ml-[100px]' src={image3} />
+          <Image className='ml-[100px]' alt='alo' src={image3} />
         </div>
       </div>
       <div className='flex'>
@@ -67,7 +67,7 @@ const page = () => {
         </div>
 
         <div className="mt-[60px] gap-[30px]">
-          <Image src={image4} />
+          <Image alt='alo' src={image4} />
           <h1 className='pt-3'>
             ready to become the centerpiece of your home
           </h1>
@@ -99,7 +99,7 @@ const page = () => {
           </div>
         </div>
         <div className="w-1/2 h-full">
-          <Image src={image5} alt="Dealer Image" className="w-full h-full object-cover" />
+          <Image alt='alo' src={image5} alt="Dealer Image" className="w-full h-full object-cover" />
         </div>
       </div>
       <div className="w-full h-[600px] bg-black text-white relative flex flex-col items-center justify-start">
@@ -109,13 +109,13 @@ const page = () => {
           inspire me
         </button>
         <div className="absolute top-[40px] left-[100px] w-[200px] h-[280px] bg-gray-300 rounded-md overflow-hidden">
-          <Image src={image6} />
+          <Image alt='alo' src={image6} />
         </div>
         <div className="absolute top-[40px] right-[100px] w-[200px] h-[150px] bg-gray-300 rounded-md overflow-hidden">
-          <Image src={image7} />
+          <Image alt='alo' src={image7} />
         </div>
         <div className="absolute bottom-[40px] right-[100px] w-[200px] h-[150px] bg-gray-300 rounded-md overflow-hidden">
-          <Image src={image8} />
+          <Image alt='alo' src={image8} />
         </div>
       </div>
 
@@ -133,7 +133,7 @@ const page = () => {
       </div>
       <div className="flex w-full h-[600px]">
         <div className="w-1/2 h-full">
-          <Image src={image9} alt="Dealer Image" className="w-full h-full object-cover" />
+          <Image alt='alo' src={image9} alt="Dealer Image" className="w-full h-full object-cover" />
         </div>
         <div className="w-1/2 h-full flex flex-col justify-center pl-[80px]">
           <div>
@@ -151,7 +151,7 @@ const page = () => {
           </div>
         </div>
       </div>
-      <Image src={image10} />
+      <Image alt='alo' src={image10} />
       <div>
         <footer className="w-full bg-black text-white py-[60px] px-[80px]">
           <div className="max-w-[1200px] mx-auto">
